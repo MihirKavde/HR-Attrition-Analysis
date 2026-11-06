@@ -165,4 +165,4 @@ Data validation · SQL aggregation, `CASE` banding, CTEs, window functions and c
 ## Author
 
 **Mihir Kavde**: Aspiring Data Analyst
-[LinkedIn](https://www.linkedin.com/in/MihirKavde/) · [GitHub](https://github.com/MihirKavde) · mihirkavde@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mihir-kavde-923561308/) · [GitHub](https://github.com/MihirKavde) · mihirkavde@gmail.com
