@@ -141,7 +141,7 @@ hr-attrition-workforce-analytics/
 │   └── hr_attrition.sql
 ├── Python/
 │   └── hr_attrition_analysis.ipynb
-└── PowerBi/
+└── PowerBI/
     ├── HR_Attrition_Analysis_Dashboard.pbix
     └── HR_Attrition_Analysis_Dashboard.pdf
 ```
